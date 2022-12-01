@@ -1,3 +1,3 @@
-# mcjmk.github.io
+# About me
 Hello!
 I'm currently learning Python.
