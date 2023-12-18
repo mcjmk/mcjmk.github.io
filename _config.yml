@@ -1,5 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [Mcjmk personal site]
-description: [Hello. I'm glad to see you here!]
+title: "Mcjmk's Personal Site"
+description: "Hello. I'm glad to see you here!"
+email: mcj.mezyk@gmail.com
+github_username: mcjmk
